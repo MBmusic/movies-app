@@ -55,3 +55,20 @@
 		}
 	}
 </script>
+
+<style>
+	.movie-list-bg {
+		background: #eaeaea;
+		border-radius: 5px;
+	}
+
+	.input-movie {
+		font-size: 18px;
+	}
+
+	.not-found {
+		width: 100%;
+		font-size: 26px;
+		text-transform: uppercase;
+	} 
+</style>
